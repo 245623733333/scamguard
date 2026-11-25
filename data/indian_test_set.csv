@@ -1,0 +1,31 @@
+text,label,category
+"Dear customer your SBI account will be blocked today. Update KYC immediately at http://sbi-kyc-update.xyz",1,kyc
+"Congratulations! You have won Rs 25,00,000 in KBC lottery. Call 9876543210 to claim your prize",1,lottery
+"Your electricity connection will be disconnected tonight 9:30pm. Pay pending bill now: bit.ly/3xYzAb or call 9812345670",1,utility
+"HDFC Bank: Your PAN is not linked. Account suspended in 2 hrs. Verify now https://hdfc-verify.top/login",1,kyc
+"Your parcel is held at customs. Pay Rs 49 redelivery fee at http://indiapost-track.cc to release",1,courier
+"Hi, I am from Amazon. Share the OTP you received to cancel your order of iPhone",1,otp
+"Earn Rs 5000 daily from home! Just like YouTube videos. Join our Telegram now t.me/earnfast99",1,job
+"UPI collect request of Rs 9999 from refund-dept. Accept to receive your refund in your account",1,upi
+"Your Aadhaar is linked to illegal activity. Contact CBI officer immediately on WhatsApp to avoid arrest",1,authority
+"Dear user your Paytm KYC has expired. Click http://paytm-kyc.link to avoid wallet block",1,kyc
+"Jio: Your SIM will be deactivated in 24 hours. Call 9123456780 to update your documents",1,kyc
+"You are selected for a loan of Rs 5,00,000 at 0 interest. Pay processing fee Rs 1999 to get it today",1,loan
+"Income tax refund of Rs 15490 approved. Submit bank details at http://incometax-refund.info to receive",1,refund
+"Dear customer your credit card reward points worth Rs 8540 expire today. Redeem at http://bit.ly/rewardz-now",1,rewards
+"Last chance! Mega cashback offer, send your UPI PIN to claim Rs 2000 now",1,upi
+"123456 is your OTP for login to Flipkart. Do not share this OTP with anyone.",0,otp
+"Rs 1250.00 debited from A/c XX4521 on 28-10-26 at SWIGGY. Avl bal Rs 10432.55. Not you? Call 18001234567",0,txn
+"Your Amazon order 405-1234567 has been shipped and will arrive by Tuesday.",0,delivery
+"Dear customer your SBI credit card statement for Oct is generated. Min due Rs 500 by 15-Nov. Pay via the YONO app.",0,bill
+"Your Uber ride OTP is 4821. Share it with your driver only.",0,otp
+"Hi running late will reach by 7. Start dinner without me.",0,personal
+"Your Airtel recharge of Rs 299 is successful. Validity till 30-Nov. Thank you.",0,recharge
+"Reminder: Your appointment with Dr. Rao is tomorrow at 10:30 AM at City Clinic.",0,appointment
+"Rs 5000 credited to your A/c XX9012 via UPI from RAMESH. Ref 3029384756.",0,txn
+"Your Zomato order is on the way. Track it in the app.",0,delivery
+"IRCTC: Your PNR 4512345678 is confirmed. Train 12723, 5-Nov, Coach S4 Seat 32.",0,travel
+"Dear Customer, never share your OTP, PIN or CVV with anyone, including bank staff. - HDFC Bank",0,awareness
+"Mom can you send me the notes for tomorrow's class? Thanks!",0,personal
+"Your Jio bill of Rs 399 is due on 3-Nov. Pay on the MyJio app to avoid late fees.",0,bill
+"Your electricity bill of Rs 842 for Oct has been paid successfully. Receipt no 88231.",0,bill

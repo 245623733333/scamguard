@@ -1,0 +1,94 @@
+{
+  "uci_test": {
+    "ml_only": {
+      "precision": 0.91,
+      "recall": 0.9579,
+      "f1": 0.9333,
+      "fpr": 0.0133,
+      "tp": 91,
+      "fp": 9,
+      "tn": 666,
+      "fn": 4,
+      "n": 770
+    },
+    "fused_scam_only": {
+      "precision": 1.0,
+      "recall": 0.1684,
+      "f1": 0.2883,
+      "fpr": 0.0,
+      "tp": 16,
+      "fp": 0,
+      "tn": 675,
+      "fn": 79,
+      "n": 770
+    },
+    "fused_scam_or_suspicious": {
+      "precision": 0.9881,
+      "recall": 0.8737,
+      "f1": 0.9274,
+      "fpr": 0.0015,
+      "tp": 83,
+      "fp": 1,
+      "tn": 674,
+      "fn": 12,
+      "n": 770
+    },
+    "rules_only": {
+      "precision": 1.0,
+      "recall": 0.0842,
+      "f1": 0.1553,
+      "fpr": 0.0,
+      "tp": 8,
+      "fp": 0,
+      "tn": 675,
+      "fn": 87,
+      "n": 770
+    }
+  },
+  "indian_test": {
+    "ml_only": {
+      "precision": 0.7143,
+      "recall": 1.0,
+      "f1": 0.8333,
+      "fpr": 0.4,
+      "tp": 15,
+      "fp": 6,
+      "tn": 9,
+      "fn": 0,
+      "n": 30
+    },
+    "fused_scam_only": {
+      "precision": 1.0,
+      "recall": 0.8667,
+      "f1": 0.9286,
+      "fpr": 0.0,
+      "tp": 13,
+      "fp": 0,
+      "tn": 15,
+      "fn": 2,
+      "n": 30
+    },
+    "fused_scam_or_suspicious": {
+      "precision": 0.9375,
+      "recall": 1.0,
+      "f1": 0.9677,
+      "fpr": 0.0667,
+      "tp": 15,
+      "fp": 1,
+      "tn": 14,
+      "fn": 0,
+      "n": 30
+    },
+    "rules_only": {
+      "precision": 1.0,
+      "recall": 0.8667,
+      "f1": 0.9286,
+      "fpr": 0.0,
+      "tp": 13,
+      "fp": 0,
+      "tn": 15,
+      "fn": 2,
+      "n": 30
+    }
+  }
+}

@@ -1,0 +1,7 @@
+models/clf.joblib
+models/clf.joblib.json
+data/SMSSpamCollection
+data/splits/
+__pycache__/
+*.pte
+*.pth
